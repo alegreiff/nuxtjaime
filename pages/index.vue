@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        gitproy
+        alegreiff@gmail.com
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
